@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# phone photos can carry GPS location data
+*.HEIC
+*.heic
+# scratch state from chat_calibrate.py
+.homing_*.json
+.stop_*
